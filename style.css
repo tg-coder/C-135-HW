@@ -1,0 +1,27 @@
+body
+{
+    font-family: 'Lato', sans-serif;
+    background-size: cover;
+}
+.heading
+{
+    width: 100%;
+    font-size: 58px;
+}
+.note
+{
+    width: 100%;
+    font-size: 18px;
+}
+#object_name
+{
+    height: 31px;
+    width: 227px;
+    text-align: center;
+    font-size: 19px;
+}
+canvas
+{
+    box-shadow: 5px 5px 5px cyan;
+    border-width: 3px black;
+}
